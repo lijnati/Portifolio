@@ -388,7 +388,9 @@ Created and Uploded By Yegetaneh's Portifolio Copyright October 2022
      width: 350px;
 }
 
-  
+.testimonials img {
+  display: none;
+}
 }
 .contact {
   padding: 50%px;
